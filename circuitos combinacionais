@@ -1,0 +1,26 @@
+circuitos combinacionais 
+	combinação de duas ou mais portas lógicas
+
+Porta Lógica NAND - 
+
+	X = NAND(A,B) = INV(A.B)
+	X = (A*B)'
+
+Porta Lógica NOR -
+
+	X = NOR(A,B)
+	X = (A+B)'
+
+Porta Lógica XOR -
+
+	X = A'*B + A.B'
+	X = A⊕B
+
+	- so sai 1 se tem variáveis diferentes - 
+
+Porta Lógica XNOR - 
+
+	X = A'*B' + A*B 
+	X = A⊙B
+
+
